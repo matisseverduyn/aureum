@@ -2,7 +2,7 @@
 
 **With only one 3kb CSS file, and absolutely zero CSS classes.**
 
-Because Aureum algorithmically formats your HTML, you don't have to learn any new CSS classes, or clutter your HTML templates with `class="screen-small-12 screen-medium-6"` to try to make the styling look decent on mobile, tablet, and web devices. **It just will.**
+Because Aureum algorithmically formats your HTML, you don't have to learn any new CSS classes, or clutter your HTML templates with `class="screen-small-12 screen-medium-6"` to try to make the styling look decent on mobile, tablet, and web devices. **It just scales.**
 
 ## Customizing / extending Aureum (building your own themes)
 
@@ -69,9 +69,9 @@ For instance, if you wanted to create a list of articles in a container:
 ```html
 <section>
   <article>
-    <p>Praesent egestas ante eget elit malesuada, a venenatis nulla tincidunt.</p>
+    <p>Praesent <a href="#"><u>egestas ante eget</u></a> elit malesuada, a venenatis nulla tincidunt.</p>
   </article><article>
-    <p>Nulla sem justo, lacinia nec nunc id, feugiat volutpat arcu.</p>
+    <p>Nulla sem justo, lacinia nec nunc id, <a href="#"><u>feugiat</u></a> volutpat arcu.</p>
   </article>
 </section>
 ```
@@ -106,7 +106,6 @@ article > p {
 
 ```css
 button {
-  display: inline-block;
   transition: transform 160ms ease-in-out;
 }
 
