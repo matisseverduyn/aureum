@@ -1,11 +1,11 @@
 {
   "name": "aureum",
-  "version": "1.0.1507013347",
+  "version": "1.0.1507118579",
   "description": "Aureum CSS: Perfect formatting and readable text, at every screen size. Automatically.",
   "main": "aureum.css",
   "author": {
     "name": "Matisse VerDuyn",
-    "url": "http://aureum.io"
+    "url": "https://aureum.io"
   },
   "license": "MIT"
 }

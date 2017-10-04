@@ -11,7 +11,7 @@ Themes should contain three additional `.css` files, included in the following o
 - `theme/format.css` layout: *border widths, margins, padding, widths*
 - `theme/animate.css` animations: *hover and focus transformations, etc.*
 
-**To see an example webpage, designed with a custom Aureum theme (without any CSS classes), please visit [aureum.io/example.html](http://aureum.io/example.html)**
+**To see an example webpage, designed with a custom Aureum theme (without any CSS classes), please visit [aureum.io/example.html](https://aureum.io/example.html)**
 
 ### Skin.css
 
@@ -114,6 +114,6 @@ button:hover, button:focus {
 }
 ```
 
-**For more information, please visit [aureum.io](http://aureum.io)**
+**For more information, please visit [aureum.io](https://aureum.io)**
 
-**To see an example webpage, designed with a custom Aureum theme (without any CSS classes), please visit [aureum.io/example.html](http://aureum.io/example.html)**
+**To see an example webpage, designed with a custom Aureum theme (without any CSS classes), please visit [aureum.io/example.html](https://aureum.io/example.html)**
