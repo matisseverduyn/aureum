@@ -1,4 +1,4 @@
-# Aureum CSS: Perfect formatting and readable text, at every screen size. Automatically.
+# Aureum: Perfect formatting and readable text, at every screen size. Automatically.
 
 **With only one 3kb CSS file, and absolutely zero CSS classes.**
 
